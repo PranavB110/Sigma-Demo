@@ -1,2 +1,2 @@
 # Sigma-Demo
-understanding the github
+understanding the github.
